@@ -400,18 +400,6 @@ Key configuration options in [`backend/config.py`](backend/config.py):
 
 ---
 
-## 👥 Authors
-
-- **Oussama Allouch** — *AISD Master — Machine Learning & Deep Learning*
-
----
-
-## 📄 License
-
-This project was developed as part of the **Deep Learning** course in the **AISD Master's program** (S1 — Machine Learning 1).
-
----
-
 <p align="center">
   <strong>⭐ If you found this project useful, please give it a star! ⭐</strong>
 </p>
